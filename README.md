@@ -1,1 +1,3 @@
-# MonHu-no-jimaku-kun
+# もんふのじまくくん
+
+もんふのじまくくんは、字幕ファイル(SubViewer)を作るやーつ

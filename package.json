@@ -1,0 +1,19 @@
+{
+  "name": "monhu-no-jimaku-kun",
+  "version": "0.0.0",
+  "description": "もんふのじまくくん",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarochanChannel/MonHu-no-jimaku-kun.git"
+  },
+  "author": "MonHu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TarochanChannel/MonHu-no-jimaku-kun/issues"
+  },
+  "homepage": "https://github.com/TarochanChannel/MonHu-no-jimaku-kun#readme"
+}
